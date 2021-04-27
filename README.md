@@ -320,7 +320,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Nome Ripartizione NUTS-1:** Nord-Est
 
-**Numero delle features:**1546084
+**Numero delle features:** 1546084
 
 **FRIULI VENEZIA GIULIA**
 
