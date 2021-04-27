@@ -47,7 +47,8 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
 
 ```
-DPC-Aggregati-Strutturali-ITH-NordEst/│
+DPC-Aggregati-Strutturali-ITH-NordEst/
+|
 ├── NordEst/
 │   ├── EmiliaRomagna/
 │   │   ├── Bologna/
@@ -107,45 +108,56 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Fonti dei dati originali
 
-**LAZIO**
+**EMILIA-ROMAGNA**
 
-**Disponibili nel Web:** http://dati.lazio.it/catalog/it/dataset
+**Disponibili nel Web:** Trasmessi dalla Regione Emilia Romagna a seguito di richiesta del DPC.
 
-**Tipo:** CTRN/DBT
+**Tipo**: https://geoportale.regione.emilia-romagna.it/notizie/servizi-e-applicazioni/edificato2018-ottenuto-con-tecniche-di-feature-extraction-tramite-machine-learning
 
-**Edizione:** 2014
+**Edizione:** 2018
 
 **Scala:** 5000
 
-**MARCHE**
+**FRIULI VENEZIA GIULIA**
 
-**Disponibili nel Web:** La Regione Marche non rende fruibili i propri dati come open data in formato shape https://www.regione.marche.it/Regione-Utile/Paesaggio-Territorio-Urbanistica-Genio-Civile/Cartografia-regionale/Repertorio/Carta-tecnica-numerica-110000/opendata . I dati in formato shape sono ceduti dietro richiesta per fini istituzionali con la clausola di non cederli a terzi.
+**Disponibili nel Web: https://irdat.regione.fvg.it/CTRN/ricerca-cartografia/ 
 
 **Tipo:** CTRN
 
-**Edizione:** 1999/2000
+**Edizione:** 1990/2000 I ed. e 2003/2006 II ed.
+
+**Scala:** 5000
+
+**P.A. BOLZANO**
+
+**Disponibili nel Web:** Disponibile per la CTR 1:5000 solo il servizio WMS o il download del raster, facendo richiesta è stato inviato anche il layer vettoriale.
+
+**Tipo:** DBT(Intesa GIS 2006)
+
+**Edizione:** 2007
+
+**Scala:** 5000
+
+**P.A. TRENTO**
+
+**Disponibili nel Web:** http://www.territorio.provincia.tn.it/portal/server.pt/community/carta_tecnica_provinciale/920/carta_tecnica_provinciale/40052 
+
+**Tipo:** CTPN
+
+**Edizione:** 2017
 
 **Scala:** 10000
 
-**TOSCANA**
+**VENETO**
 
-**Disponibili nel Web:** http://www502.regione.toscana.it/geoscopio/cartoteca.html
+**Disponibili nel Web:** La Regione Veneto ha trasmesso i propri dati sull’edificato a seguito di una specifica richiesta, in esito di una revisione generale effettuata nel 2020 di quelli pubblicati e resi disponibili che spaziano temporalmente dal 2005 al 2018.
 
-**Tipo:** DBT(DM2011)
+**Tipo:** CTRN/DBT
 
-**Edizione:** 1988/2013
+**Edizione:** 2020
 
-**Scala:** 10000/2000
+**Scala:** 5000/10000
 
-**UMBRIA**
-
-**Disponibili nel Web:** La Regione Umbria dispone per il suo territorio di una “base” denominata Ecografico Catastale (vedi http://www.umbriageo.regione.umbria.it/pagine/ecografico-catastale ) che non è disponibile per il riutilizzo aggiornata al 2010. Esiste anche la Carta Tecnica Regionale vettoriale alla scala 1:5.000 scaricabile come Open Data (vedi http://www.umbriageo.regione.umbria.it/pagina/distribuzione-carta-tecnica-regionale-vettoriale-1-000 ) con aggiornamento dal 1985 al 2006. Infine, esiste anche il prodotto denominato “Distribuzione Carta Tecnica Regionale 10k vettoriale - esito grafico del Data Base GeoTopografico Tevere-Trasimeno (2013) (vedi http://www.umbriageo.regione.umbria.it/pagina/distribuzione-carta-tecnica-regionale-10k-esito-gr ). In accordo con la Regione Umbria il Dipartimento per la realizzazione degli aggregati strutturali il Dipartimento ha utilizzato la cartografia catastale ricevuta dall’Agenzia delle Entrate in occasione del terremoto nel Centro Italia del 2016.
-
-**Tipo:** Catasto
-
-**Edizione:** 2016
-
-**Scala:** 2000
 
 ## Licenza dei dati originali
 
