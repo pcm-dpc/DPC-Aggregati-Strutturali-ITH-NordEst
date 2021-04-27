@@ -158,40 +158,47 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **Scala:** 5000/10000
 
-
 ## Licenza dei dati originali
 
-**LAZIO**
-
-**Licenza dataset originale:** CC BY 3.0
-
-**Autorizzazione specifica:** NO
-
-**Attribuzione richiesta:** Regione Lazio
-
-**MARCHE**
-
-**Licenza dataset originale:** DGR n.783/2017
-
-**Autorizzazione specifica:** Nota del 18 gennaio 2021 Regione Marche Giunta Regionale – Servizio Tutela, Gestione e Assetto del Territorio
-
-**Attribuzione richiesta:** Regione Marche
-
-**TOSCANA**
+**EMILIA-ROMAGNA**
 
 **Licenza dataset originale:** CC BY 4.0
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Toscana
+**Attribuzione richiesta:** Regione Emilia-Romagna
 
-**UMBRIA**
+**FRIULI VENEZIA GIULIA**
 
-**Licenza dataset originale:** Non presente
+**Licenza dataset originale:** IODL 2.0
 
-**Autorizzazione specifica:** Nota dell’1 marzo 2021 dell’Agenzia delle Entrate – Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare
+**Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Agenzia delle Entrate
+**Attribuzione richiesta:** Regione Friuli Venezia Giulia
+
+**P.A. BOLZANO**
+
+**Licenza dataset originale:** CC 0 1.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Provincia Autonoma di Bolzano
+
+**P.A. TRENTO**
+
+**Licenza dataset originale:** CC BY 3.0 IT
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Provincia Autonoma di Trento
+
+**VENETO**
+
+**Licenza dataset originale:** IODL 2.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Regione Veneto
 
 ## Sistemi di riferimento dei dati originali
 
