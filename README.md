@@ -312,37 +312,55 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 ## Occupazione di memoria Regionale
 
-**LAZIO**
+**EMILIA-ROMAGNA**
 
-**Size (Mb):** 916
+**Size (Mb):** 521
 
-**Codice Ripartizione NUTS-1:** 3
+**Codice Ripartizione NUTS-1:** 2
 
-**Numero delle features:** 1662265
+**Nome Ripartizione NUTS-1:** Nord-Est
 
-**MARCHE**
+**Numero delle features:**1546084
 
-**Size (Mb):** 132
+**FRIULI VENEZIA GIULIA**
 
-**Codice Ripartizione NUTS-1:** 3
+**Size (Mb):** 252
 
-**Numero delle features:** 426976
+**Codice Ripartizione NUTS-1:** 2
 
-**TOSCANA**
+**Nome Ripartizione NUTS-1:** Nord-Est
 
-**Size (Mb):** 427
+**Numero delle features:** 476722
 
-**Codice Ripartizione NUTS-1:** 3
+**P.A. BOLZANO**
 
-**Numero delle features:** 1211596
+**Size (Mb):** 53
 
-**UMBRIA**
+**Codice Ripartizione NUTS-1:** 2
 
-**Size (Mb):** 142
+**Nome Ripartizione NUTS-1:** Nord-Est
 
-**Codice Ripartizione NUTS-1:** 3
+**Numero delle features:** 153077
 
-**Numero delle features:** 389943
+**P.A. TRENTO**
+
+**Size (Mb):** 334
+
+**Codice Ripartizione NUTS-1:** 2
+
+**Nome Ripartizione NUTS-1:** Nord-Est
+
+**Numero delle features:** 142736
+
+**VENETO**
+
+**Size (Mb):** 806
+
+**Codice Ripartizione NUTS-1:** 2
+
+**Nome Ripartizione NUTS-1:** Nord-Est
+
+**Numero delle features:** 1290004
 
 ## Aggiornamento dei dati
 Non pianificato
