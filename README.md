@@ -120,7 +120,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **FRIULI VENEZIA GIULIA**
 
-**Disponibili nel Web: https://irdat.regione.fvg.it/CTRN/ricerca-cartografia/ 
+**Disponibili nel Web:** https://irdat.regione.fvg.it/CTRN/ricerca-cartografia/ 
 
 **Tipo:** CTRN
 
