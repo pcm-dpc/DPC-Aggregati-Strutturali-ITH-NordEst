@@ -316,19 +316,11 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Size (Mb):** 521
 
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
 **Numero delle features:** 1546084
 
 **FRIULI VENEZIA GIULIA**
 
 **Size (Mb):** 252
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
 
 **Numero delle features:** 476722
 
@@ -336,29 +328,17 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Size (Mb):** 53
 
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
 **Numero delle features:** 153077
 
 **P.A. TRENTO**
 
 **Size (Mb):** 334
 
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
 **Numero delle features:** 142736
 
 **VENETO**
 
 **Size (Mb):** 806
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
 
 **Numero delle features:** 1290004
 
