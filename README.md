@@ -202,29 +202,35 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Sistemi di riferimento dei dati originali
 
-**LAZIO**
+**EMILIA-ROMAGNA**
 
-**Sistema Riferimento:** ETRS_1989_UTM_Zone_33N
+**Sistema Riferimento:**  GCS_ETRF2000 UTM_Zone_32N
 
-**EPSG:** 25833
+**EPSG:**  6707
 
-**MARCHE**
+**FRIULI VENEZIA GIULIA**
 
-**Sistema Riferimento:** RDN2008_Italy_zone
+**Sistema Riferimento:**  Monte_Mario_Italy_2
 
-**EPSG:** 6875
+**EPSG:**  3004
 
-**TOSCANA**
+**P.A. BOLZANO**
 
-**Sistema Riferimento** Monte_Mario_Italy_1
+**Sistema Riferimento:**  ETRS_1989_UTM_Zone_32N
 
-**EPSG** 3003
+**EPSG:**  103532
 
-**UMBRIA**
+**P.A. TRENTO**
 
-**Sistema Riferimento:** ETRS_1989_ETRS-UTM33
+**Sistema Riferimento:**  ETRS_1989_UTM_Zone_32N
 
-**EPSG:** 3045
+**EPSG:**  103532
+
+**VENETO**
+
+**Sistema Riferimento:**  RDN2008_Zone_12
+
+**EPSG:**  6876
 
 ## DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
