@@ -314,31 +314,31 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **EMILIA-ROMAGNA**
 
-**Size (Mb):** 521
+**Size (Mb):** 423
 
-**Numero delle features:** 1546084
+**Numero delle features:** 1546083
 
 **FRIULI VENEZIA GIULIA**
 
-**Size (Mb):** 252
+**Size (Mb):** 222
 
 **Numero delle features:** 476722
 
 **P.A. BOLZANO**
 
-**Size (Mb):** 53
+**Size (Mb):** 43,1
 
-**Numero delle features:** 153077
+**Numero delle features:** 153075
 
 **P.A. TRENTO**
 
-**Size (Mb):** 334
+**Size (Mb):** 324
 
 **Numero delle features:** 142736
 
 **VENETO**
 
-**Size (Mb):** 806
+**Size (Mb):** 725
 
 **Numero delle features:** 1290004
 
