@@ -314,51 +314,31 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **EMILIA-ROMAGNA**
 
-**Size (Mb):** 521
+**Size (Mb):** 423
 
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
-**Numero delle features:** 1546084
+**Numero delle features:** 1546083
 
 **FRIULI VENEZIA GIULIA**
 
-**Size (Mb):** 252
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
+**Size (Mb):** 222
 
 **Numero delle features:** 476722
 
 **P.A. BOLZANO**
 
-**Size (Mb):** 53
+**Size (Mb):** 43,1
 
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
-**Numero delle features:** 153077
+**Numero delle features:** 153075
 
 **P.A. TRENTO**
 
-**Size (Mb):** 334
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
+**Size (Mb):** 324
 
 **Numero delle features:** 142736
 
 **VENETO**
 
-**Size (Mb):** 806
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
+**Size (Mb):** 725
 
 **Numero delle features:** 1290004
 
@@ -366,7 +346,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 Non pianificato
 
 ## Attori coinvolti
-Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e i Servizi Attività di rilievo del danno e misure provvisionali e Supporto agli interventi strutturali e gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza e il supporto agli interventi strutturali (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
+Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali (RUS) e i Servizi Attività di rilievo del danno post-evento e Gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
 
 **A cura di:**
 
